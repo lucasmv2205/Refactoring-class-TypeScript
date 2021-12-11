@@ -44,6 +44,17 @@
     ]
   },
   "devDependencies": {
-    "json-server": "^0.16.3"
-  }
+    "@types/react": "^17.0.34",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-modal": "^3.13.1",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/styled-components": "^5.1.17",
+    "json-server": "^0.16.3",
+    "typescript": "^4.4.4"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/lucasmv2205/Refactoring-class-TypeScript.git",
+  "author": "lucasmv2205 <lmartins2205@gmail.com>",
+  "license": "MIT"
 }
